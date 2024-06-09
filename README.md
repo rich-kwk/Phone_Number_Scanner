@@ -71,3 +71,7 @@ Ensure that the MongoDB server is running on `localhost:27017`. The app connects
 - `987-654-3210`
 - `555-123-4567`
 
+<img width="632" alt="Capture" src="https://github.com/rich-kwk/Phone_Number_Scanner/assets/118232144/cbdf56be-ea60-446f-8751-489990e45b8b">
+<img width="623" alt="Capture2" src="https://github.com/rich-kwk/Phone_Number_Scanner/assets/118232144/96bea79e-806e-4aaf-9a1e-b98687d47116">
+
+
