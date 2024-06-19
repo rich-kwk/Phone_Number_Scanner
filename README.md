@@ -19,20 +19,13 @@ This is a simple Kivy-based application that connects to a MongoDB database to c
 
 ## Installation
 
-1. **Clone the repository:**
-
-	```sh
-	git clone <repository-url>
-	cd <repository-directory>
-	```
-
-2. **Install the required Python packages:**
+1. **Install the required Python packages:**
 
 	```sh
 	pip install kivy pymongo
 	```
 
-3. **Ensure MongoDB is installed and running:**
+2. **Ensure MongoDB is installed and running:**
 
 	- Download and install MongoDB from the [official MongoDB website](https://www.mongodb.com/try/download/community).
 	- Start the MongoDB server by running the following command in a terminal:
